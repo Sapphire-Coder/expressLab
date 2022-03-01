@@ -1,0 +1,14 @@
+<head>
+#title#
+</head>
+<body>
+<header>#message#</header>
+<table>
+<tr>
+<th>Table</th>
+</tr>
+<tr>
+<td>#content#</td>
+</tr>
+</table>
+</body>
